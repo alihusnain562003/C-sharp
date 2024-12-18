@@ -1,0 +1,17 @@
+C:\Users\kk\source\point of sale\point of sale\bin\Debug\net8.0-windows\point of sale.exe
+C:\Users\kk\source\point of sale\point of sale\bin\Debug\net8.0-windows\point of sale.deps.json
+C:\Users\kk\source\point of sale\point of sale\bin\Debug\net8.0-windows\point of sale.runtimeconfig.json
+C:\Users\kk\source\point of sale\point of sale\bin\Debug\net8.0-windows\point of sale.dll
+C:\Users\kk\source\point of sale\point of sale\bin\Debug\net8.0-windows\point of sale.pdb
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point_of_sale.Form1.resources
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.csproj.GenerateResource.cache
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.AssemblyInfoInputs.cache
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.AssemblyInfo.cs
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.dll
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\refint\point of sale.dll
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.pdb
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point of sale.genruntimeconfig.cache
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\ref\point of sale.dll
+C:\Users\kk\source\point of sale\point of sale\obj\Debug\net8.0-windows\point_of_sale.Properties.Resources.resources

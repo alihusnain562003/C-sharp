@@ -1,0 +1,16 @@
+C:\Users\kk\source\repos\age calculater\age calculater\bin\Debug\net8.0-windows\age calculater.exe
+C:\Users\kk\source\repos\age calculater\age calculater\bin\Debug\net8.0-windows\age calculater.deps.json
+C:\Users\kk\source\repos\age calculater\age calculater\bin\Debug\net8.0-windows\age calculater.runtimeconfig.json
+C:\Users\kk\source\repos\age calculater\age calculater\bin\Debug\net8.0-windows\age calculater.dll
+C:\Users\kk\source\repos\age calculater\age calculater\bin\Debug\net8.0-windows\age calculater.pdb
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age_calculater.Form1.resources
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.csproj.GenerateResource.cache
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.AssemblyInfoInputs.cache
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.AssemblyInfo.cs
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.dll
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\refint\age calculater.dll
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.pdb
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\age calculater.genruntimeconfig.cache
+C:\Users\kk\source\repos\age calculater\age calculater\obj\Debug\net8.0-windows\ref\age calculater.dll

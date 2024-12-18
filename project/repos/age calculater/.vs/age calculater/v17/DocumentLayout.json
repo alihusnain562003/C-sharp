@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kk\\source\\repos\\age calculater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46023136-CA5B-464F-8995-C23BC8BB4185}|age calculater\\age calculater.csproj|c:\\users\\kk\\source\\repos\\age calculater\\age calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46023136-CA5B-464F-8995-C23BC8BB4185}|age calculater\\age calculater.csproj|solutionrelative:age calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46023136-CA5B-464F-8995-C23BC8BB4185}|age calculater\\age calculater.csproj|C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46023136-CA5B-464F-8995-C23BC8BB4185}|age calculater\\age calculater.csproj|solutionrelative:age calculater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46023136-CA5B-464F-8995-C23BC8BB4185}|age calculater\\age calculater.csproj|c:\\users\\kk\\source\\repos\\age calculater\\age calculater\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46023136-CA5B-464F-8995-C23BC8BB4185}|age calculater\\age calculater.csproj|solutionrelative:age calculater\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "age calculater\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\Form1.Designer.cs",
+              "RelativeToolTip": "age calculater\\Form1.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:18:56.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\Form1.cs",
+              "RelativeDocumentMoniker": "age calculater\\Form1.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\Form1.cs",
+              "RelativeToolTip": "age calculater\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:18:45.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\Form1.cs",
+              "RelativeDocumentMoniker": "age calculater\\Form1.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\age calculater\\age calculater\\Form1.cs [Design]",
+              "RelativeToolTip": "age calculater\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:15:02.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
